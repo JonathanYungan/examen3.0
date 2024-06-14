@@ -2,13 +2,7 @@ package com.distribuida.entities;
 
 import java.util.Date;
 
-import javax.persistence.Entity;
-import javax.persistence.Table;
 
-import org.springframework.stereotype.Component;
-@Component
-@Entity
-@Table(name = "autor")
 
 public class Departamento {
 	private int id_departamento;
