@@ -1,6 +1,6 @@
 package com.distribuida.entities;
 
-import java.util.Date;
+
 
 public class Localizaciones_Dpto {
 
